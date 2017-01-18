@@ -12,3 +12,5 @@ Run the container and start a shell where you can *configure*, *make*, *make tes
 ```
 docker run -ti --rm -v `pwd`:/php-src -w /php-src gielfeldt/php-dev bash
 ```
+
+
